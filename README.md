@@ -1,2 +1,8 @@
-# projetosnakegamedio
-Projeto feito a partir do Bootcamp da Digital Innovation One 
+# Projeto Snake Game Dio :snake:
+
+Além do que foi instruído na aula:
+
+- fonte externa para o título;
+- background image;
+- outras alterações no css.
+
