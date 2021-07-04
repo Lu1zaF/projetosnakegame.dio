@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(./img/blacksnake.jpg);
+    
+}
+
+.titulo{
+    font-family: 'Orbitron', sans-serif;
+    align-items: center;
+    color: ivory;
+    font-size: 23px;
+
+    
+}
+
